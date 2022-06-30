@@ -8,3 +8,4 @@ CSE 15L
 > - cp  
 > - mv  
 > - mkdir  
+> - ls
